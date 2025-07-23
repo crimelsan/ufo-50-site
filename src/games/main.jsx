@@ -13,10 +13,10 @@ export default function Main() {
                     UFO Soft is a former software company turned game company co-founded by Benedikt Chun and Gerry Smolski. However, UFO Soft was most
                     recenty ran by Benedikt Chun and Tao Nemuru after Gerry left the company for unknown reasons.
                     They officially gained their company name "UFO Soft" in 1986, about a year after Campanella reached massive succesive with audiences.
-                    I haven't really researched what happend UFO Soft after there latest hit Cyber Owls, but this is about UFO 50, not UFO Soft!
+                    I haven't really researched what happend to UFO Soft after their latest hit, Cyber Owls, came out, but this is about UFO 50, not UFO Soft!
                     I want to thank the archivists on the UFO 50 Recovery Team for 
                     releasing this game to the public, sharing to us all of these interesting titles! 
-                    Now click on a cartridge below and discover the history behind one of these games!</p>
+                    Now click on a cartridge below and discover the history behind these games!</p>
             </div>
             <Carts/>
         </>
