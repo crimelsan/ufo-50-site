@@ -5,6 +5,7 @@ import Body from "./components/body.jsx"
 export default function Main() {
     return (
         <>
+            <audio src="/assets/audio/Recovery-Team.mp3" autoPlay/>
             <Header/>
             <Navbar/>
             <Body/>

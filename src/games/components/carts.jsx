@@ -3,7 +3,7 @@ export default function Carts() {
         <>
             <div className="cart-container">
                 <div className="cart-row">
-                    <a><img src="/assets/images/cartridges/barbuta.png"/></a>
+                    <a href="/barbuta.html"><img src="/assets/images/cartridges/barbuta.png"/></a>
                     <a><img src="/assets/images/cartridges/bug.png"/></a>
                     <a><img src="/assets/images/cartridges/ninja.png"/></a>
                     <a><img src="/assets/images/cartridges/paint.png"/></a>
